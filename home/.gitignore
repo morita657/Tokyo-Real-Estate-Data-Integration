@@ -1,0 +1,7 @@
+/__pycache__
+/.ipynb_checkpoints
+/dwh.cfg
+/calendar.csv
+/listenings.csv
+/reviews.csv
+/weather.csv
