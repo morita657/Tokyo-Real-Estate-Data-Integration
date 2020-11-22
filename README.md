@@ -60,7 +60,8 @@ Load datasets as CSV files -> Transform modeling on Jupyter
 * create_tables.py
 
 ## Data Modeling
-![ERD]("ERD.png")
+![ERD](ERD.png)
+
 ### Fact Table
 listings - id, host_id, listing_id
 
